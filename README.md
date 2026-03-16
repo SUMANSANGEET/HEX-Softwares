@@ -224,7 +224,7 @@ Business Intelligence
 
 🤝 Connect With Me
 
-💼 LinkedIn: (Add your LinkedIn profile)
-💻 GitHub: (Add your GitHub profile)
+💼 LinkedIn: www.linkedin.com/in/p-suman-sangeet-b94946213
+💻 GitHub: https://github.com/SUMANSANGEET
 
 ⭐ If you find these projects interesting, consider starring the repository.
